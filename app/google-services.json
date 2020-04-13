@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "341799641186",
+    "firebase_url": "https://modsapp-a004f.firebaseio.com",
+    "project_id": "modsapp-a004f",
+    "storage_bucket": "modsapp-a004f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:341799641186:android:2edb98d54a21ae19d4313b",
+        "android_client_info": {
+          "package_name": "com.example.skin_v42"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "341799641186-9nfj2irm45gt45m7l188a6crtpj8gqjb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBE0TMdRHRJ_oicWkml49_9Uch7PZD-g48"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "341799641186-9nfj2irm45gt45m7l188a6crtpj8gqjb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
